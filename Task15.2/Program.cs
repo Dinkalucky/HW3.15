@@ -22,9 +22,6 @@ namespace Task15._2
             worker.TheOldestWorker(stazh);
 
             Console.ReadLine();
-
-
-
         }
     }
 }

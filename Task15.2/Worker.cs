@@ -16,7 +16,7 @@ namespace Task15._2
 
         public void WorkersArray()
         {
-            workersArray = new Worker[3];
+            workersArray = new Worker[5];
 
             for (int i = 0; i < workersArray.Length; i++)
             {
